@@ -1,7 +1,7 @@
 # Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
 
 ## AIM:
-To write aprogram to predict the marks scored by a student using the simple linear regression model.
+To write a program to predict the marks scored by a student using the simple linear regression model.
 
 ## Equipments Required:
 1. Hardware – PCs
